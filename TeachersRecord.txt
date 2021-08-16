@@ -1,0 +1,5 @@
+RecordsTeachers
+ID 	 Name        	 Class 	 Section
+1 	 Mutab 	 1 	 1
+2 	 fahad 	 22 	 22
+3 	 khaled 	 2 	 3

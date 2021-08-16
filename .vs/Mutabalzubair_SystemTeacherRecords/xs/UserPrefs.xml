@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{07ADDD4A-D7D2-41A1-B3DC-259C768230F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mutabalzubair_SystemTeacherRecords/Program.cs">
+    <Files>
+      <File FileName="Mutabalzubair_SystemTeacherRecords/Program.cs" Line="25" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mutabalzubair_SystemTeacherRecords" expanded="True">
+            <Node name="Mutabalzubair_SystemTeacherRecords" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mutabalzubair__SystemTeacherRecords PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
